@@ -36,7 +36,7 @@
 <h3 align="center">Ghost Lifestyle E-commerce (Back-end)</h3>
 
   <p align="center">
-    This is a back-end application for Ghost Lifestyle.
+    Ghost Lifestyle is a full-stack e-commerce application. This repo is the back-end application for Ghost Lifestyle e-commerce. Click <a href="https://github.com/jethro-dev/ghost-ecommerce-client">here</a> to go to front-end repo.
     <br />
     <a href="https://github.com/jethro-dev/ghost-ecommerce-server"><strong>Explore the docs »</strong></a>
     <br />
@@ -76,7 +76,7 @@
 
 [![Ghost Lifestyle e-commerce Screen Shot][product-screenshot]](https://ghost-lifestyle.vercel.app/)
 
-Back-end application for Ghost Lifestyle e-commerce. Built with `Node.js`, `Express.js`, `MongoDB`, `JWT`, `Stripe` payments. and more.
+Ghost Lifestyle is a full-stack e-commerce application. This repo is the server application for Ghost Lifestyle e-commerce. Built with `React`, `TailwindCSS`, `Redux`, and more.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
