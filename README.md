@@ -76,7 +76,7 @@
 
 [![Ghost Lifestyle e-commerce Screen Shot][product-screenshot]](https://ghost-lifestyle.vercel.app/)
 
-Ghost Lifestyle is a full-stack e-commerce application. This repo is the server application for Ghost Lifestyle e-commerce. Built with `React`, `TailwindCSS`, `Redux`, and more.
+Ghost Lifestyle is a full-stack e-commerce application. This repo is the server application for Ghost Lifestyle e-commerce. Built with `Node.js`, `Express.js`, `MongoDB`, and more.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
